@@ -18,3 +18,6 @@ A data model was created using primary keys to merge all four tables.
 5. Customers prefer to eat pizza on Friday, but not on Sunday based on the Quantity sold during weekdays.
 
 6. The peak order time for pizza is between 12:00 p.m. to 13:00 p.m.
+
+
+Tableau Visualization Dashboard Link - https://public.tableau.com/views/PizzaSalesDashboard_16955349643620/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
